@@ -3,3 +3,10 @@ button {
   border-radius: 15px;
   color: white;
 }
+
+li {
+  background-color: red;
+  border-radius: 15px;
+  height: 20px;
+ }
+
